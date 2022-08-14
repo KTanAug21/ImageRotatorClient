@@ -1,6 +1,9 @@
 # ImageRotatorClient
 React-powered client taking uploaded images and returning the images as 90 degrees rotated
 
+### Feature:
+![Alt Text](https://github.com/KTanAug21/ImageRotatorClient/blob/master/image_rotator_demo%20(2).gif)
+
 ### To start:
 npm i
 <br>npm run dev
